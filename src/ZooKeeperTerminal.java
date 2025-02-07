@@ -1,11 +1,12 @@
+import java.sql.Array;
 import java.util.Scanner;
 import java.io.File;
 import java.util.Random;
 import java.util.*;
 import java.util.Date;
 import java.time.*;
-public class ZooKeeperTerminal{
-    public static void main(String[]args){
+public class ZooKeeperTerminal {
+    public static void main(String[] args) {
         Random rand = new Random();
 
 
