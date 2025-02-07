@@ -1,7 +1,9 @@
+package Zookeeper;
+
 import java.io.File;
 import java.util.Scanner;
 
-public class Zookeeper {
+public class Main {
     public static void main(String[] args) {
 
         System.out.println("What camera do you want to see: ");
